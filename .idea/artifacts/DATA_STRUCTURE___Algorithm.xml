@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="DATA STRUCTURE _ Algorithm">
+    <output-path>$PROJECT_DIR$/out/artifacts/DATA_STRUCTURE___Algorithm</output-path>
+    <root id="root">
+      <element id="archive" name="DATA_STRUCTURE___Algorithm.jar">
+        <element id="module-output" name="DATA STRUCTURE _ Algorithm" />
+      </element>
+    </root>
+  </artifact>
+</component>
