@@ -3,7 +3,7 @@ package com.MORTGAGE;
 public class Array {
     private int[] items; // i have an array of integer called items. items are not initialized yet.
     // to initialize an array we need to know the length.
-    private int count; // we need another field to keep track of the number  of items in this array.
+    public int count; // we need another field to keep track of the number  of items in this array.
     // we cannot trust i<items.length. because this is the memory you are allocating. initially we
     // allocate memory for 50 items but we want to insert 2 items only. so any time we insert
     // a new item we need to keep track of the number of items inserted.
