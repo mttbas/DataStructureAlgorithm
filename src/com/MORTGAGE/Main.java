@@ -14,5 +14,7 @@ public class Main {
         numbers.print();
         System.out.println(numbers.indexOf(100));
         System.out.println(numbers.indexOf(100000));
+        System.out.println(numbers.indexOf(30)); // 1 because 20 was removed and other numbers
+        // moved one step back
     }
 }

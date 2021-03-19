@@ -55,7 +55,7 @@ public class Array {
         // if we find it, return INDEX
         for (int i=0; i<count;i++)
             if (items[i]==item)
-                return item;
+                return i;
             return -1;
         // otherwise return -1
     }
